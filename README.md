@@ -77,7 +77,9 @@ SELECT DISTINCT ?p ?calories ?weight WHERE {
 ├── lab2-owl-pizza-ontology/
 │   ├── pizza-ontology.rdf                 # OWL ontology (RDF/XML, open in Protégé)
 │   ├── Lab2-OWL-Ontology-Report.docx      # Lab report
+│   ├── Lab2-Assignment.pdf                # Lab instructions
 │   └── images/protege-class-hierarchy.png
 └── lab3-fuseki-sparql/
-    └── Lab3-Fuseki-SPARQL-Report.docx     # Lab report (setup, reasoner comparison, queries)
+    ├── Lab3-Fuseki-SPARQL-Report.docx     # Lab report (setup, reasoner comparison, queries)
+    └── Lab3-Assignment.pdf                # Lab instructions
 ```
